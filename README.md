@@ -11,7 +11,7 @@
 ---
 
 ## 🌐 Live Website
-👉 **[Click here to open FreshGrove](https://Naitikjangid.github.io/FreshGrove)**
+👉 **[Click here to open FreshGrove](https://naitikjangid.github.io/FreshGrove)**
 
 ---
 
